@@ -1,4 +1,4 @@
-# TF-Santivanez-Oliva-Puga
+# TF-Santivanez-Oliva-Puga (shortest flight path)
 ### Curso: CC184 - Complejidad Algorítmica
 
 ### Sección: WS6A 
